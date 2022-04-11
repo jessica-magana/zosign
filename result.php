@@ -4,7 +4,6 @@
 <html>
  
 <head>
-    Allow: <http-methods> 'GET', 'POST'</http-methods>
  <meta charset=UTF-8 />
  
  <title>PHP Quiz</title>
