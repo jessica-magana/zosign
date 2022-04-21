@@ -1,0 +1,20 @@
+a{
+    text-decoration: none;
+    color: white;
+    background: #db11af;
+    padding: 7px 10px;
+    border-radius: 4px;  
+    font-size: 19px;
+ }
+ a:hover{
+    background: rgba(241, 51, 168, 0.85);
+ }
+ a:focus{
+     outline: 3px solid rgba(240, 107, 211, 0.884);
+    
+ }
+ div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+ }
