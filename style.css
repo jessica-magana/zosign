@@ -3,7 +3,8 @@
 */
  
  
-body{ font: 14px Georgia, serif; }
+body{   background-color: rgb(230, 176, 227);
+   font: 14px Georgia, serif; }
  
 #page-wrap { width: 500px; margin: 0 auto;}
  
